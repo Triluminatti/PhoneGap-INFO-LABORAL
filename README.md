@@ -1,5 +1,8 @@
 #El Sistema Solar
 
+Mario Santos Linares y Joel Repiso
+
+
 07/12/2015
 El projecta ara es diu : El Sistema Solar
 
